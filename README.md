@@ -1,3 +1,8 @@
+![WhatsApp Image 2024-07-18 at 22 28 27_41b06238](https://github.com/user-attachments/assets/17c5fe43-79f9-4cc8-b41d-7a12b643c167)
+
+
+
+
 #BackgroundBuzz
 
 This project demonstrates a dynamic background color changer using HTML, CSS, and JavaScript. When a user hovers over a color box, the background color of the entire page changes to match the color of the hovered box.
